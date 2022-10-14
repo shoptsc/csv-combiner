@@ -18,7 +18,7 @@ able to handle more than two inputs, inputs with different columns, and very lar
 files gracefully.
 
 ```
-$ python csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
+$ python csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
 
 Given two input files named `clothing.csv` and `accessories.csv`.
