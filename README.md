@@ -17,6 +17,10 @@ This example is provided as one of the ways your code should run. It should also
 able to handle more than two inputs, inputs with different columns, and very large (> 2GB) 
 files gracefully.
 
+
+## Example
+To produce the combined.csv file, run the below code on your terminal.
+
 ```
 $ python csv_combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
