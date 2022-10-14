@@ -18,7 +18,7 @@ able to handle more than two inputs, inputs with different columns, and very lar
 files gracefully.
 
 
-## Example
+## To Get The Combined CSV
 To produce the combined.csv file, run the below code on your terminal.
 
 ```
